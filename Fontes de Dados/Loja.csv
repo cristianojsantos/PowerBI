@@ -1,0 +1,12 @@
+﻿cod_loja,nome_loja,logradouro,numero,complemento,bairro,cep,cidade,estado
+1,EletroSalvador,Av. Sete de Setembro,2110,2º Piso,Centro,40060-001,Salvador,BA
+2,EletroBH,"Av. do Contorno ",4747,loja 10,"Savassi ",30130-918,Belo Horizonte,MG
+3,EletroRio,Av. Nossa Senhora de Copacabana,1702,2º Andar,Copacabana,22041-001,Rio de Janeiro,RJ
+4,EletroSãoPaulo,Rua 25 de Março,1220,Loja 2,Centro,01533-000,São Paulo,SP
+5,EletroCampinas,Av. das Amoreiras,880,1º Piso,Centro,13067-850,Campinas,SP
+6,EletroJF,Av. Rio Branco,1550,Loja 1,Centro,36000-500,Juiz de Fora,MG
+7,EletroBetim,Av. Edméia Mattos,1655,3º Andar,Jardim,23629-860,Betim,MG
+8,EletroResende,Rua Beira Rio,1001,1º Piso,Campos Elíseos,27525-000,Resende,RJ
+9,EletroVitória,Av. Presidente Vargas,635,1º Andar,Centro,02536-002,Vitória,ES
+10,EletroCampos,Rua Dom Aquino,251,loja 1,Centro,33830-205,Campos,RJ
+11,EletroVilaVelha,Av. Presidente L,102,loja 2,Centro,32565-001,Vila Velha,ES
