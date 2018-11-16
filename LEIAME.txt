@@ -2,7 +2,7 @@
 Se você chegou até estes arquivos no diretório do GitHub e baixou os arquivos, é porque 
 está a procura de conhecimento e querendo acompanhar o conteúdo do vídeo.
 No caso, só te peço um pequeno favor. Para acompanhar o vídeo (e os próximos que virão), peço somente
-que crie a seguinte estrutura de diretório do seu computador, dentro do Disco Local (C:\), criar a pasta:
+que crie a seguinte estrutura de diretório do seu computador. Dentro do Disco Local (C:\), criar a pasta:
 BI
 
 Posteriormente, dentro da pasta BI, criar uma nova chamada:
